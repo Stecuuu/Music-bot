@@ -1,0 +1,15 @@
+{
+  "name": "music-bot",
+  "main": "index.js",
+  "author": "Stecuuu",
+  "version": "4.0.1",
+  "repository": "https://github.com/Stecuuu/muzyczny-bot2137",
+  "description": "A complete code to download for a music bot. Using a module (discord-player).",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord-player": "^3.0.3",
+    "discord.js": "^12.5.1",
+    "ffmpeg-static": "^4.2.7"
+  }
+"start" "node src/index.js",
+}
